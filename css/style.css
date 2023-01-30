@@ -53,5 +53,6 @@ section#latest .overley {
 section#latest .overley i {
     transform: translateY(20ox);
     transition: all .5s;
-    font-size: ;
+    opacity: 0;
+    font-size: 2rem;
 }
